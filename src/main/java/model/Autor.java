@@ -4,6 +4,8 @@ import jakarta.persistence.*;
 import lombok.Data;
 import lombok.ToString;
 
+
+// TODO O resto
 @Data
 @ToString
 @Entity
